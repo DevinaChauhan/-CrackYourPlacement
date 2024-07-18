@@ -6,10 +6,6 @@ Overview
 
 The DSA 45 Days Challenge aims to strengthen your problem-solving abilities and prepare you for technical interviews and placements. Each day, I will tackle a set of DSA questions, covering a wide range of topics.
 
-Repository Structure
 
-Day 01 to Day 45: Each day will have its own folder containing the questions and their solutions.
-Resources: Additional resources and references used during the challenge.
-Notes: Personal notes and explanations for complex topics and solutions.
 
 
