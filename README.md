@@ -11,5 +11,5 @@ Repository Structure
 Day 01 to Day 45: Each day will have its own folder containing the questions and their solutions.
 Resources: Additional resources and references used during the challenge.
 Notes: Personal notes and explanations for complex topics and solutions.
-Daily Progress
+
 
